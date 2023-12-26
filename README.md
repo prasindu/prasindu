@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasindu
+- 👋 Hi, I’m Prasindu Deshan
 - 🌱 I’m currently learning full stack web developer
 - 💬 Ask me about anything, I am happy to help 😊
 
