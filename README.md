@@ -80,13 +80,7 @@ superpower: Debugging at 2AM with snacks 🍕
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prasindu/prasindu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 ## ⚡ Fun Facts
 
