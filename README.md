@@ -70,27 +70,8 @@ superpower: Debugging at 2AM with snacks 🍕
 
 
 
-## 🚀 Current Projects
-
-| 🔭 Project | 📝 Description | 🛠️ Stack |
-|------------|----------------|----------|
-| 🚧 **Coming Soon...** | Building something awesome | React · Node.js · MongoDB |
-
-> 📌 *Watch this space — something cool is dropping soon!*
-
----
 
 
-
-## ⚡ Fun Facts
-
-- 🐛 I don't have bugs — I have *undocumented features*
-- ☕ Powered by coffee and Stack Overflow
-- 🌙 My best ideas come at 2 AM
-- 🎮 I treat life like a game — keep leveling up!
-- 🔥 My code works. I don't know why. I'm not touching it.
-
----
 
 ## 📈 Activity Graph
 
